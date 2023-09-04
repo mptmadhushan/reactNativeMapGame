@@ -1,0 +1,372 @@
+[
+  {
+    "id": "10001",
+    "word": "Ventosa",
+    "title": "Ventosa i Calvell Refuge",
+    "latlon": "42.6053217,0.8774010999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Joan Ventosa i Calvell Refuge is a mountain refuge owned by the Center Excursionista de Catalunya, located within the municipality of Vall de Boí (Alta Ribagorça), above Estany Negre, at an altitude of 2,214 meters, at the foot of the Agulles de Travessani in the easternmost part of the Pletiu d'Estany Negre and within the boundaries of the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Joan_Ventosa_i_Calvell_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10002",
+    "word": "Llong",
+    "title": "Estany Llong Refuge",
+    "latlon": "42.572580099999996,0.9423785000000002",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Estany Llong Refuge is a mountain refuge located within the municipality of Vall de Boí, in the Alta Ribagorça region, and within the Aigüestortes i Estany de Sant Maurici National Park. It is located at an altitude of 1,985 meters, to the west of the Estany Llong outflow and to the northeast of the Prats d'Aiguadassi.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Estany_Llong_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10003",
+    "word": "Colomina",
+    "title": "Colomina Refuge",
+    "latlon": "42.5194579,1.0012462000000002",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Colomina Refuge, located at the head of the Vall Fosca (Pallars Jussà) at an altitude of 2,395 meters, was built around the year 1917 and was known as the \"casa Keller,\" named after the Swiss engineer Albert Keller, who lived there and directed what was the first hydroelectric project in the Spanish state.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Colomina_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10004",
+    "word": "Blanc",
+    "title": "Josep Maria Blanc Refuge",
+    "latlon": "42.545736399999996,1.0442265000000002",
+    "sourcePhoto": "enciclopedia.cat",
+    "wikipediaExcerpt": "The Josep Maria Blanc Refuge is a mountain refuge located in the Peguera Valley, within the municipality of Espot, in the Pallars Sobirà region. It is situated at an altitude of 2,350 meters, to the right of the Estany Tort de Peguera, within the boundaries of the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Josep_Maria_Blanc_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10005",
+    "word": "Mallafre",
+    "title": "Ernest Mallafré Refuge",
+    "latlon": "42.5788505,1.0090162",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Ernest Mallafré or Sant Maurici Refuge is a mountain refuge located within the municipality of Espot, in the Pallars Sobirà region. It is situated at an altitude of 1,893 meters, near the Sant Maurici reservoir dam, at the foot of the Encantats, and within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Ernest_Mallafr%C3%A9_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10006",
+    "word": "Amitges",
+    "title": "Amitges Refuge",
+    "latlon": "42.5966578,0.9846691000000002",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Amitges Refuge is a mountain refuge located within the municipality of Espot, in the Pallars Sobirà region. It is situated at an altitude of 2,365 meters, southwest of the Estany Gran d'Amitges and within the boundaries of the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Amitges_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10007",
+    "word": "Saboredo",
+    "title": "Saboredo Refuge",
+    "latlon": "42.6210461,0.9632940999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Saboredo Refuge is a mountain refuge in the municipality of Alt Àneu, at an altitude of 2,298 meters, located next to Lake Baish, in the Saboredo Cirque, and within the peripheral protection zone of the Aigüestortes i Estany de Sant Maurici National Park. It is owned and managed by the FEEC and the Conselh Generau d'Aran.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Saboredo_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10008",
+    "word": "Colomers",
+    "title": "Colomers Refuge",
+    "latlon": "42.6266246,0.9218230000000001",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Colomers Refuge is a mountain refuge located within the municipality of Naut Aran (Vall d'Aran) at an altitude of 2,135 meters, next to the Estany Major de Colomers in the Circ de Colomèrs, and within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Colomers_Refuge",
+    "type": "hut",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10009",
+    "word": "Marqués",
+    "title": "Marqués de Riscal, a Luxury Collection",
+    "latlon": "42.5171474,-2.6165725",
+    "sourcePhoto": "es.wikipedia.org",
+    "wikipediaExcerpt": "The Hotel Marqués de Riscal, a Luxury Collection Hotel, is a luxury hotel located in the town of Elciego, in the province of Álava, Spain. It was designed by architect Frank Gehry and is known for its distinctive titanium structure. The hotel is part of the Marqués de Riscal winery complex, and it offers a unique and luxurious experience in the heart of the Rioja wine region.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Hotel_Marqu%C3%A9s_de_Riscal",
+    "type": "hotel",
+    "packs": [
+      "2"
+    ]
+  },
+  {
+    "id": "10010",
+    "word": "Westin",
+    "title": "The Westin Palace, Madrid",
+    "latlon": "40.4169175,-3.698395",
+    "sourcePhoto": "en.wikipedia.org",
+    "wikipediaExcerpt": "The Westin Palace, Madrid is a historic luxury hotel located in the heart of Madrid, Spain. It is known for its prestigious location and has been a symbol of luxury and comfort since its opening in 1912. The hotel offers elegant accommodations, fine dining, and a range of amenities for both business and leisure travelers.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/The_Westin_Palace,_Madrid",
+    "type": "hotel",
+    "packs": [
+      "2"
+    ]
+  },
+  {
+    "id": "10011",
+    "word": "Cavallers",
+    "title": "Cavallers Reservoir",
+    "latlon": "42.5906494,0.8567905",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Cavallers Reservoir or Tor Estanys Reservoir is a reservoir that belongs to the Noguera de Tor River (Noguera Ribagorçana River basin), created by a dam located in the municipality of Vall de Boí, in the Alta Ribagorça region. The reservoir was built in 1960.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Cavallers_Reservoir",
+    "type": "reservoir",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10012",
+    "word": "Estany Llong",
+    "title": "Estany Llong",
+    "latlon": "42.57311,0.94946",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Estany Llong is a glacial lake, covering an area of 7.43 hectares and with a maximum depth of 12 meters. It is located within the Aigüestortes i Estany de Sant Maurici National Park, at an altitude of 1,999 meters, in the municipality of Vall de Boí, Alta Ribagorça. Its name comes from its elongated shape.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Estany_Llong_(la_Vall_de_Bo%C3%AD)",
+    "type": "lake",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10013",
+    "word": "Pic Contraix",
+    "title": "Pic de Contraix",
+    "latlon": "42.5851693,0.9068791",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Pic de Contraix is a mountain located in the municipality of Vall de Boí, in the Alta Ribagorça region, and within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Pic_de_Contraix",
+    "type": "summit",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10014",
+    "word": "Punta Alta",
+    "title": "Punta Alta de Comalesbienes",
+    "latlon": "42.585738, 0.880313",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Punta Alta de Comalesbienes is a mountain located in the municipality of Vall de Boí, in the Alta Ribagorça region, and within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Punta_Alta_de_Comalesbienes",
+    "type": "summit",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10015",
+    "word": "Montardo Aran",
+    "title": "Montardo d'Aran",
+    "latlon": "42.6332852,0.8753278",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Montardo or Montardo d'Aran is a peak in the Central Pyrenees, in the Vall d'Aran region. It has an elevation of 2,833.2 meters and is one of the most well-known mountains in the region and in the entire Pyrenees due to its prominence and location. It is often also referred to as Montarto.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Montardo",
+    "type": "summit",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10016",
+    "word": "Llebreta",
+    "title": "Llebreta Lake",
+    "latlon": "42.5496516,0.8892926",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Llebreta Lake is a glacial lake, covering an area of 8 hectares and with a maximum depth of 12 meters. It is located within the Aigüestortes i Estany de Sant Maurici National Park, at an altitude of 1,619 meters, in the municipality of Vall de Boí, Alta Ribagorça.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Llebreta_Lake",
+    "type": "lake",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10017",
+    "word": "Sant Maurici",
+    "title": "Sant Maurici Lake",
+    "latlon": "42.58150639999999,1.0029834",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Sant Maurici Lake is a Pyrenean lake located in the municipality of Espot, within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Sant_Maurici_Lake",
+    "type": "lake",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10018",
+    "word": "Peguera",
+    "title": "Pic de Peguera",
+    "latlon": "42.54037100000001,1.005252",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Pic de Peguera is a mountain with an elevation of 2,982.7 meters, located within the Aigüestortes i Estany de Sant Maurici National Park, between the regions of Pallars Sobirà and Pallars Jussà. It is part of the municipalities of La Torre de Cabdella, in its original territory, and Espot.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Pic_de_Peguera",
+    "type": "summit",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10019",
+    "word": "Estany Tort",
+    "title": "Estany Tort",
+    "latlon": "42.5252984,0.9838591999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Estany Tort is a glacial lake located at an altitude of 2,293 meters, at the head of the Fosca Valley, in the Pallars Jussà region, northeast of the town of Cabdella, in the municipality of La Torre de Cabdella.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Estany_Tort",
+    "type": "lake",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10020",
+    "word": "Encantats",
+    "title": "Els Encantats",
+    "latlon": "42.5684626,1.0148461",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Els Encantats are two needles or peaks of a famous mountain located in the Pyrenees, south of Lake Sant Maurici, on the right bank of the Escrita River in orographic terms.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Els_Encantats",
+    "type": "summit",
+    "packs": [
+      "1"
+    ]
+  },
+  {
+    "id": "10021",
+    "word": "Estany Ratera",
+    "title": "Ratera Lake",
+    "latlon": "42.589859,0.9931213999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Ratera Lake is a Pyrenean lake located in the municipality of Espot, within the Aigüestortes i Estany de Sant Maurici National Park. It is situated at an altitude of 2,130 meters, between Lake Cabana and Lake Sant Maurici.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Ratera_Lake",
+    "type": "lake",
+    "packs": ["1"]
+  },
+  {
+    "id": "10022",
+    "word": "Agulles Amitges",
+    "title": "Amitges Needles",
+    "latlon": "42.6072731,0.976879",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Amitges Needles are sharp rock formations located in the municipality of Espot, in Pallars Sobirà, within the Aigüestortes i Estany de Sant Maurici National Park. They are situated in the Ratera Valley above Lake Gran d'Amitges at an altitude of 2,661 meters.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Amitges_Needles",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10023",
+    "word": "Besiberri Nord",
+    "title": "Besiberri Nord",
+    "latlon": "42.6052205,0.8262824",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Besiberri Nord is a mountain located at the point where the municipalities of Vall de Boí and Vilaller in Alta Ribagorça, and Naut Aran in Vall d'Aran, coincide. It is situated on the boundary of the Aigüestortes i Estany de Sant Maurici National Park and its peripheral area.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Besiberri_Nord",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10024",
+    "word": "Besiberri Sud",
+    "title": "Besiberri Sud",
+    "latlon": "42.593742049999996,0.8259745",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Besiberri Sud is a mountain located on the boundary of the municipalities of Vall de Boí and Vilaller in Alta Ribagorça. It is situated on the boundary of the Aigüestortes i Estany de Sant Maurici National Park and its peripheral area. Its name comes from the Basque words \"base-be erri,\" meaning a district under the cliff.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Besiberri_Sud",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10025",
+    "word": "Comaloforno",
+    "title": "Comaloforno",
+    "latlon": "42.5913096,0.8277772999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Comaloforno is a mountain located in the municipality of Vall de Boí, Alta Ribagorça, within the Aigüestortes i Estany de Sant Maurici National Park. The name \"Coma-lo-forno\" means the valley of the oven.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Pic_de_Comaloforno",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10026",
+    "word": "Travessani",
+    "title": "Travessani Needles",
+    "latlon": "42.6100229,0.8887849999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "The Travessani Needles, the highest of which is 2,733.0 meters in altitude, are a set of sharp rocks located in the municipality of Vall de Boí (Alta Ribagorça) within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Travessani_Needles",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10027",
+    "word": "Tumeneia",
+    "title": "Tumenèia",
+    "latlon": "42.6164766,0.8490907999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Tumenèia, or Tuc dera Humenèja in Occitan, is a mountain located on the boundary of the municipalities of Vall de Boí (Alta Ribagorça) and Naut Aran (Vall d'Aran). It is situated on the boundary of the Aigüestortes i Estany de Sant Maurici National Park and its peripheral area.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Tumen%C3%A8ia",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10028",
+    "word": "Pa Sucre",
+    "title": "Pa de Sucre",
+    "latlon": "42.613769,0.8468555999999999",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Pa de Sucre, or Tumenèia Central, is a mountain located on the boundary of the municipalities of Vall de Boí (Alta Ribagorça) and Naut Aran (Vall d'Aran). It is situated on the boundary of the Aigüestortes i Estany de Sant Maurici National Park and its peripheral area.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/El_Pa_de_Sucre",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10029",
+    "word": "Punta Harle",
+    "title": "Punta Harlé",
+    "latlon": "42.61046899999999,0.8437756",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Punta d'Harlé, or Tumenèia Sud, is a mountain located on the boundary of the municipalities of Vall de Boí (Alta Ribagorça) and Naut Aran (Vall d'Aran). It is situated on the boundary of the Aigüestortes i Estany de Sant Maurici National Park and its peripheral area.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Punta_d%27Harl%C3%A9",
+    "type": "summit",
+    "packs": ["1"]
+  },
+  {
+    "id": "10030",
+    "word": "Creu Colomers",
+    "title": "Creu de Colomers",
+    "latlon": "42.5929641,0.9175133",
+    "sourcePhoto": "ca.wikipedia.org",
+    "wikipediaExcerpt": "Creu de Colomers is a mountain located on the boundary of the municipalities of Vall de Boí (Alta Ribagorça) and Naut Aran (Vall d'Aran) within the Aigüestortes i Estany de Sant Maurici National Park.",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/La_Creu_de_Colom%C3%A8rs",
+    "type": "summit",
+    "packs": ["1"]
+  }
+]
