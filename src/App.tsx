@@ -8,6 +8,7 @@ import Bugsnag from '@bugsnag/react-native';
 import LevelMap from '@screens/levelMap/levelMap';
 import Splash from '@screens/splash/splash';
 import Home from '@screens/home/home';
+import Forecast from '@screens/forecast/forecast';
 import Game from '@screens/game/game';
 import LevelComplete from '@screens/game/levelComplete';
 import NoLives from '@screens/game/noLives';
@@ -51,6 +52,7 @@ export default class App extends Component {
             }}>
             <Stack.Screen name="Splash" component={Splash} />
             <Stack.Screen name="Home" component={Home} />
+            <Stack.Screen name="Forecast" component={Forecast} />
             <Stack.Screen
               name="LevelMap"
               component={LevelMap}

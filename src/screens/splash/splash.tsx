@@ -46,7 +46,7 @@ export default class Splash extends Component<Props> {
               opacity: this.state.fadeAnim,
             },
           ]}>
-          <Image source={R.img(Images.ondori_logo)} style={styles.logo} />
+          {/* <Image source={R.img(Images.ondori_logo)} style={styles.logo} /> */}
         </Animated.View>
       </View>
     );

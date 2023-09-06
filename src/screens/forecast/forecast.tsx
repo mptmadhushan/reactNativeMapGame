@@ -1,9 +1,16 @@
 import React, {Component} from 'react';
-import {ImageBackground, View, Image} from 'react-native';
-import {styles} from './home.style';
+import {ImageBackground, View,Dimensions, Image} from 'react-native';
+import {styles} from './forecast.style';
 import * as Progress from 'react-native-progress';
 import {View as AnimatableView} from 'react-native-animatable';
-
+import {
+  LineChart,
+  BarChart,
+  PieChart,
+  ProgressChart,
+  ContributionGraph,
+  StackedBarChart
+} from "react-native-chart-kit";
 import R, {Images} from '@res/R';
 import LevelProgressStore from '@library/mobx/levelProgressStore';
 import UserStore from '@library/mobx/userStore';
@@ -76,46 +83,52 @@ export default class Splash extends Component<Props, State> {
                 coins={this.props.userStore.coins}
               />
             </View>
-            <View style={styles.logo}>
-              {/* <ImageBackground
-                style={styles.logoImage}
-                source={R.img(Images.logo_and_ribbon)}></ImageBackground> */}
-            </View>
-            <View style={styles.buttons}>
-              <OptionButton
-                image={R.img(Images.play_button_home_bg)}
-                text={strings('play')}
-                onPress={() => {
-                  setTimeout(async () => {
-                    this.container.animate('fadeOut', 200);
-
-                    await delayPromise(201);
-
-                    this.props.navigation.navigate('LevelMap', {
-                      packId: '1',
-                    });
-
-                    this.container.animate('fadeIn', 1);
-                  }, 200);
-                }}
-              />
-             <OptionButton
-                image={R.img(Images.popup_ribbon)}
-                text={strings('prediction')}
-                onPress={() => {
-                  setTimeout(async () => {
-                    this.container.animate('fadeOut', 200);
-
-                    await delayPromise(201);
-
-                    this.props.navigation.navigate('Forecast');
-
-                    this.container.animate('fadeIn', 1);
-                  }, 200);
-                }}
-              />
-            </View>
-            <View style={styles.bottom}></View>
+            <View>
+  <LineChart
+    data={{
+      labels: ["January", "February", "March", "April", "May", "June"],
+      datasets: [
+        {
+          data: [
+            Math.random() * 100,
+            Math.random() * 100,
+            Math.random() * 100,
+            Math.random() * 100,
+            Math.random() * 100,
+            Math.random() * 100
+          ]
+        }
+      ]
+    }}
+    width={Dimensions.get("window").width} // from react-native
+    height={220}
+    yAxisLabel="$"
+    yAxisSuffix="k"
+    yAxisInterval={1} // optional, defaults to 1
+    chartConfig={{
+      backgroundColor: "#e26a00",
+      backgroundGradientFrom: "#fb8c00",
+      backgroundGradientTo: "#ffa726",
+      decimalPlaces: 2, // optional, defaults to 2dp
+      color: (opacity = 1) => `rgba(255, 255, 255, ${opacity})`,
+      labelColor: (opacity = 1) => `rgba(255, 255, 255, ${opacity})`,
+      style: {
+        borderRadius: 16
+      },
+      propsForDots: {
+        r: "6",
+        strokeWidth: "2",
+        stroke: "#ffa726"
+      }
+    }}
+    bezier
+    style={{
+      marginVertical: 8,
+      borderRadius: 16
+    }}
+  />
+</View>
+           
           </AnimatableView>
         </NoNotchView>
         <AnimatableView
