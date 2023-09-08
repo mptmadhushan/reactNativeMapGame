@@ -5997,6 +5997,11 @@ react-native-device-info@^5.6.5:
   resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-5.6.5.tgz#3f18d7c38b21cfc475163351a9aae6e9037a43a0"
   integrity sha512-l457wv7gYXSRnm38AH+NpCgKYa1zxxfN0EL8mTBxo+TnasXtk0FZ86zWDLhm4eqpcSH8xpT/+z2MQrATfqCaoA==
 
+react-native-eject@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-eject/-/react-native-eject-0.2.0.tgz#84b5bd123e883562e72801d23028bff062f9fbb3"
+  integrity sha512-muPhImNfKWa9hsdkrYeIkXM8/6lhZj3NnFCxI7kRrD3F50l6a6lc7crRWjg0i0aBt6XdkoE4efATjxCRkmTOFA==
+
 react-native-gesture-handler@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.7.0.tgz#0ef74a5ba836832e497dc49eb1ce58baa6c617e5"
@@ -6074,10 +6079,10 @@ react-native-share@^3.7.1:
   resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-3.7.1.tgz#adb62d69ff8ce76f16d43bf49f27f7df9fa366e3"
   integrity sha512-mhg564UtXM+1b61mvPj2olghK30PMGqlY7JnGIVCQOPgfCb7vuozaICFEkbKCK8P8UX7+GSQ1FJ9ql9bfc1osg==
 
-react-native-svg@^13.13.0:
-  version "13.13.0"
-  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-13.13.0.tgz#23dedb4594dcc44128d63fa5b13c49534187fef5"
-  integrity sha512-L8y8uEiMG0Tr++Nb2+24wlMuv18+bmq/CMoFFtTUlEqVvGCoK2ea8WamPl/9bV8gjL+Rngg5NqEBvKS23sbYoA==
+react-native-svg@13.8.0:
+  version "13.8.0"
+  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-13.8.0.tgz#b6a22cf77f8098f910490a13aeb160a37e182f97"
+  integrity sha512-G8Mx6W86da+vFimZBJvA93POw8yz0fgDS5biy6oIjMWVJVQSDzCyzwO/zY0yuZmCDhKSZzogl5m0wXXvW2OcTA==
   dependencies:
     css-select "^5.1.0"
     css-tree "^1.1.3"
